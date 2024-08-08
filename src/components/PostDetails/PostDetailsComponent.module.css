@@ -1,0 +1,18 @@
+.postDetails_card {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   align-items: center;
+   padding: 10px 15px;
+   background-color: #f9f9f9;
+   border-radius: 5px;
+   box-shadow: 0 0 5px gray;
+}
+
+.postDetails_card strong {
+   color: #333333;
+   font-weight: bold;
+}
+.postDetails_card span {
+   color: #555555;
+}
